@@ -1,0 +1,3 @@
+[submodule "filmoji"]
+	path = filmoji
+	url = https://github.com/mubaris/filmoji
